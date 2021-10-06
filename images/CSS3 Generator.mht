@@ -1,0 +1,959 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://css3generator.com/
+Subject: CSS3 Generator
+Date: Fri, 10 Sep 2021 07:09:04 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----"
+
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: text/html
+Content-ID: <frame-27D4EC216083949286D6794781E4368E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/
+
+<!DOCTYPE html><html lang=3D"en" ng-app=3D"css3g" class=3D"ng-scope"><head>=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c263c061-a37e-4312=
+-b286-ff106538259c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-a6ed440c-0361-4707-a4c1-9764854ca1f6@mhtml.blink" /><meta=
+ http-equiv=3D"X-UA-Compatible" content=3D"chrome=3D1"><meta name=3D"viewpo=
+rt" content=3D"width=3Ddevice-width,initial-scale=3D1"><meta name=3D"descri=
+ption" content=3D"CSS3 Generator"><meta name=3D"author" content=3D"Randy Je=
+nsen"><meta property=3D"og:image" content=3D"http://css3generator.com/favic=
+on.ico"><meta property=3D"og:title" content=3D"CSS3Generator by @RandyJense=
+n"><meta property=3D"og:url" content=3D"http://css3generator.com"><meta pro=
+perty=3D"og:site_name" content=3D"CSS3Generator by @RandyJensen"><link rel=
+=3D"icon" type=3D"image/ico" href=3D"https://css3generator.com/favicon.ico"=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"https://css3generator.c=
+om/styles/style.min.css?v=3D0.4"><link href=3D"http://fonts.googleapis.com/=
+css?family=3DPoiret+One" rel=3D"stylesheet" type=3D"text/css"><title>CSS3 G=
+enerator</title></head><body ng-controller=3D"CSS3GInteract" class=3D"ng-sc=
+ope"><div class=3D"wrapper"><header><h1>CSS3 Generator</h1></header><div cl=
+ass=3D"option-boxes cf fly" ng-class=3D"{fly: isFlying}"><div ng-click=3D"c=
+ssEdit('borderRadius', 'border-radius-code'); whatBrowser('6','4','5','9','=
+10.5','2.1','3.1');" class=3D"option-box option-box-border-radius">Border R=
+adius</div><div ng-click=3D"cssEdit('boxShadow', 'box-shadow-code'); whatBr=
+owser('4','4','3.1','9','10.5','2.1','3.2');" class=3D"option-box option-bo=
+x-box-shadow">Box Shadow</div><div ng-click=3D"cssEdit('textShadow', 'text-=
+shadow-code'); whatBrowser('4','3.5','4','10','9.6','2.1','3.2');" class=3D=
+"option-box option-box-text-shadow">Text Shadow</div><div ng-click=3D"cssEd=
+it('rgba', 'rgba-code'); whatBrowser('4','3','3.1','9','10','2.1','3.2');" =
+class=3D"option-box option-box-rgba">RGBA</div><div ng-click=3D"cssEdit('fo=
+ntFace', 'font-face-code'); whatBrowser('4','3.5','3.2','9','10.1','4.0','4=
+.2');" class=3D"option-box option-box-font-face">@Font Face</div><div ng-cl=
+ick=3D"cssEdit('multipleColumns', 'multiple-columns-code'); whatBrowser('4'=
+,'2','3.1','10','11.1','2.1','3.2');" class=3D"option-box option-box-multip=
+le-columns">Multiple Columns</div><div ng-click=3D"cssEdit('boxResize', 'bo=
+x-resize-code'); whatBrowser('4','4','4',false,'15',false,false);" class=3D=
+"option-box option-box-box-resize">Box Resize</div><div ng-click=3D"cssEdit=
+('boxSizing', 'box-sizing-code'); whatBrowser('4','2','3.1','8','9.5','2.1'=
+,'3.2');" class=3D"option-box option-box-box-sizing">Box Sizing</div><div n=
+g-click=3D"cssEdit('outline', 'outline-code'); whatBrowser('4','2','3.1','8=
+','9','2.1','3.2');" class=3D"option-box option-box-outline">Outline</div><=
+div ng-click=3D"cssEdit('transition', 'transition-code'); whatBrowser('4','=
+4','3.1','10','10.5','2.1','3.2');" class=3D"option-box option-box-transiti=
+ons">Transition</div><div ng-click=3D"cssEdit('transform', 'transform-code'=
+); whatBrowser('4','3.5','3.1','9','10.5','2.1','3.2');" class=3D"option-bo=
+x option-box-transform">Transform</div><div ng-click=3D"cssEdit('flexbox', =
+'flexbox-code'); whatBrowser('21','28','6.1','11','12.1','4.4','7.1');" cla=
+ss=3D"option-box option-flexbox">Flexbox</div><div ng-click=3D"cssEdit('gra=
+dients'); whatBrowser('4','3.6','4','10','11.1','2.1','3.2');" class=3D"opt=
+ion-box option-box-gradients">Gradient</div></div><section class=3D"choose-=
+area cf"><span ng-click=3D"canFly()" class=3D"customSelect choose-property"=
+><span class=3D"customSelectInner cf"><span ng-bind=3D"title" class=3D"ng-b=
+inding">Transition</span> <span ng-bind-html=3D"browserText" class=3D"brows=
+ers ng-binding">&nbsp; <img src=3D"https://css3generator.com/images/chrome.=
+svg" height=3D"20" width=3D"20" alt=3D"Chrome 4">4 &nbsp; <img src=3D"https=
+://css3generator.com/images/firefox.svg" height=3D"20" width=3D"20" alt=3D"=
+Firefox 4">4 &nbsp; <img src=3D"https://css3generator.com/images/safari.svg=
+" height=3D"20" width=3D"20" alt=3D"Safari 3.1">3.1 &nbsp; <img src=3D"http=
+s://css3generator.com/images/ie.svg" height=3D"20" width=3D"20" alt=3D"IE 1=
+0">10 &nbsp; <img src=3D"https://css3generator.com/images/opera.svg" height=
+=3D"20" width=3D"20" alt=3D"Opera 10.5">10.5 &nbsp; <img src=3D"https://css=
+3generator.com/images/android.svg" height=3D"20" width=3D"20" alt=3D"Androi=
+d 2.1">2.1 &nbsp; <img src=3D"https://css3generator.com/images/iphone.svg" =
+height=3D"20" width=3D"20" alt=3D"iPhone 3.2">3.2</span> <span class=3D"blo=
+ck-icon"><span></span> <span></span> <span></span> <span></span> <span></sp=
+an> <span></span></span></span></span></section><div class=3D"main-area"><a=
+side id=3D"interaction-area" class=3D"interaction-area" ng-class=3D"{empty:=
+ isEmpty}"><div id=3D"interaction-area-border-radius" class=3D"interaction-=
+area-specific" style=3D"display: none;"><label><span>Top Left: </span><inpu=
+t tabindex=3D"1" name=3D"border-radius-input-tl" type=3D"text" size=3D"2" c=
+lass=3D"border-radius border-radius-tl ng-pristine ng-valid" ng-model=3D"bo=
+rderRadiusTL" ng-keyup=3D"doBorderRadius($event, 'tl')"><i>px</i></label><h=
+r><label><span>Top Right: </span><input tabindex=3D"2" name=3D"border-radiu=
+s-input-tr" type=3D"text" size=3D"2" class=3D"border-radius border-radius-t=
+r ng-pristine ng-valid" ng-model=3D"borderRadiusTR" ng-keyup=3D"doBorderRad=
+ius($event, 'tr')"><i>px</i></label> <label><span>Bottom Right: </span><inp=
+ut tabindex=3D"3" name=3D"border-radius-input-br" type=3D"text" size=3D"2" =
+class=3D"border-radius border-radius-br ng-pristine ng-valid" ng-model=3D"b=
+orderRadiusBR" ng-keyup=3D"doBorderRadius($event, 'br')"><i>px</i></label> =
+<label><span>Bottom Left: </span><input tabindex=3D"4" name=3D"border-radiu=
+s-input-bl" type=3D"text" size=3D"2" class=3D"border-radius border-radius-b=
+l ng-pristine ng-valid" ng-model=3D"borderRadiusBL" ng-keyup=3D"doBorderRad=
+ius($event, 'bl')"><i>px</i></label><div id=3D"border-radius-code" class=3D=
+"code-area"><pre ng-bind-html=3D"borderRadiusCode" class=3D"ng-binding"></p=
+re><div class=3D"copy-code" ng-mousemove=3D"zclip('border-radius-code')">Co=
+py</div></div></div><div id=3D"interaction-area-box-shadow" class=3D"intera=
+ction-area-specific" style=3D"display: none;"><label><span>Inset: </span><s=
+elect tabindex=3D"10" id=3D"box-shadow-inset" name=3D"box-shadow-inset" ng-=
+model=3D"boxShadowInset" ng-change=3D"doBoxShadow($event, 'inset')" class=
+=3D"ng-pristine ng-valid"><option value=3D"">No</option><option value=3D"in=
+set">Inset</option></select></label> <label><span>Horizontal Length: </span=
+><input tabindex=3D"11" name=3D"box-shadow-horizontal" type=3D"text" size=
+=3D"2" ng-model=3D"boxShadowHorizontal" ng-keyup=3D"doBoxShadow($event, 'ho=
+rizontal')" class=3D"ng-pristine ng-valid"><i>px</i></label> <label><span>V=
+ertical Length: </span><input tabindex=3D"12" name=3D"box-shadow-vertical" =
+type=3D"text" size=3D"2" ng-model=3D"boxShadowVertical" ng-keyup=3D"doBoxSh=
+adow($event, 'vertical')" class=3D"ng-pristine ng-valid"><i>px</i></label> =
+<label><span>Blur Radius: </span><input tabindex=3D"13" name=3D"box-shadow-=
+blur" type=3D"text" size=3D"2" ng-model=3D"boxShadowBlur" ng-keyup=3D"doBox=
+Shadow($event, 'blur')" class=3D"ng-pristine ng-valid"><i>px</i></label> <l=
+abel><span>Spread: </span><input tabindex=3D"14" name=3D"box-shadow-spread"=
+ type=3D"text" size=3D"2" ng-model=3D"boxShadowSpread" ng-keyup=3D"doBoxSha=
+dow($event, 'spread')" class=3D"ng-pristine ng-valid"><i>px</i></label> <la=
+bel><span>Color Type: </span><select tabindex=3D"15" id=3D"box-shadow-color=
+" name=3D"box-shadow-color" ng-model=3D"boxShadowColor" ng-change=3D"doBoxS=
+hadow($event, 'color')" class=3D"ng-pristine ng-valid"><option value=3D"? u=
+ndefined:undefined ?"></option><option value=3D"rgba">RGBA</option><option =
+value=3D"hex">Hex</option></select></label> <label ng-class=3D"{hide: doHid=
+eBoxRGBA}" class=3D"hide"><span>RGBA Color: </span>(<input tabindex=3D"16" =
+name=3D"box-shadow-r" type=3D"text" size=3D"3" ng-model=3D"boxShadowR" ng-k=
+eyup=3D"doBoxShadow($event, 'r')" class=3D"ng-pristine ng-valid">, <input t=
+abindex=3D"17" name=3D"box-shadow-g" type=3D"text" size=3D"3" ng-model=3D"b=
+oxShadowG" ng-keyup=3D"doBoxShadow($event, 'g')" class=3D"ng-pristine ng-va=
+lid">, <input tabindex=3D"18" name=3D"box-shadow-b" type=3D"text" size=3D"3=
+" ng-model=3D"boxShadowB" ng-keyup=3D"doBoxShadow($event, 'b')" class=3D"ng=
+-pristine ng-valid">, <input tabindex=3D"19" name=3D"box-shadow-a" type=3D"=
+text" size=3D"3" ng-model=3D"boxShadowA" ng-keyup=3D"doBoxShadow($event, 'a=
+')" class=3D"ng-pristine ng-valid">)</label> <label ng-class=3D"{hide: doHi=
+deBoxHex}" class=3D"hide"><span>Hex Color: </span><input tabindex=3D"20" na=
+me=3D"box-shadow-hex-color" type=3D"text" size=3D"5" class=3D"box-shadow bo=
+x-shadow-hex-color color {pickerFaceColor:'#444',pickerBorder:0,pickerInset=
+Color:'transparent',adjust:false} ng-pristine ng-valid" ng-model=3D"boxShad=
+owHexColor" ng-change=3D"doBoxShadow($event, 'hexColor')" autocomplete=3D"o=
+ff"></label><div id=3D"box-shadow-code" class=3D"code-area"><pre ng-bind-ht=
+ml=3D"boxShadowCode" class=3D"ng-binding"></pre><div class=3D"copy-code" ng=
+-mousemove=3D"zclip('box-shadow-code')">Copy</div></div></div><div id=3D"in=
+teraction-area-text-shadow" class=3D"interaction-area-specific" style=3D"di=
+splay: none;"><label><span>Horizontal Length: </span><input tabindex=3D"30"=
+ name=3D"text-shadow-horizontal-length" type=3D"text" size=3D"2" class=3D"t=
+ext-shadow text-shadow-horizontal-length ng-pristine ng-valid" ng-model=3D"=
+textShadowHorizontalLength" ng-keyup=3D"doTextShadow($event, 'horizontal')"=
+><i>px</i></label> <label><span>Vertical Length: </span><input tabindex=3D"=
+31" name=3D"text-shadow-vertical-length" type=3D"text" size=3D"2" class=3D"=
+text-shadow text-shadow-vertical-length ng-pristine ng-valid" ng-model=3D"t=
+extShadowVerticalLength" ng-keyup=3D"doTextShadow($event, 'vertical')"><i>p=
+x</i></label> <label><span>Blur Radius: </span><input tabindex=3D"32" name=
+=3D"text-shadow-blur" type=3D"text" size=3D"2" class=3D"text-shadow text-sh=
+adow-blur ng-pristine ng-valid" ng-model=3D"textShadowBlur" ng-keyup=3D"doT=
+extShadow($event, 'blur')"><i>px</i></label> <label><span>Shadow Color: </s=
+pan><input tabindex=3D"33" name=3D"text-shadow-color" type=3D"text" size=3D=
+"5" class=3D"text-shadow text-shadow-color color {pickerFaceColor:'#444',pi=
+ckerBorder:0,pickerInsetColor:'transparent',adjust:false} ng-pristine ng-va=
+lid" ng-model=3D"textShadowColor" ng-change=3D"doTextShadow($event, 'color'=
+)" autocomplete=3D"off"></label><div id=3D"text-shadow-code" class=3D"code-=
+area"><pre ng-bind-html=3D"textShadowCode" class=3D"ng-binding"></pre><div =
+class=3D"copy-code" ng-mousemove=3D"zclip('text-shadow-code')">Copy</div></=
+div></div><div id=3D"interaction-area-rgba" class=3D"interaction-area-speci=
+fic" style=3D"display: none;"><label><span>R: </span><input tabindex=3D"40"=
+ name=3D"rgba-r" type=3D"text" size=3D"2" class=3D"rgba rgba-r ng-pristine =
+ng-valid" ng-model=3D"rgbaR" ng-keyup=3D"doRGBA($event, 'r')"></label> <lab=
+el><span>G: </span><input tabindex=3D"41" name=3D"rgba-g" type=3D"text" siz=
+e=3D"2" class=3D"rgba rgba-g ng-pristine ng-valid" ng-model=3D"rgbaG" ng-ke=
+yup=3D"doRGBA($event, 'g')"></label> <label><span>B: </span><input tabindex=
+=3D"42" name=3D"rgba-b" type=3D"text" size=3D"2" class=3D"rgba rgba-b ng-pr=
+istine ng-valid" ng-model=3D"rgbaB" ng-keyup=3D"doRGBA($event, 'b')"></labe=
+l> <label><span>Opacity: </span><input tabindex=3D"43" name=3D"rgba-a" type=
+=3D"text" size=3D"2" class=3D"rgba rgba-a ng-pristine ng-valid" ng-model=3D=
+"rgbaA" ng-keyup=3D"doRGBA($event, 'a')"></label><div id=3D"rgba-code" clas=
+s=3D"code-area"><pre ng-bind-html=3D"rgbaCode" class=3D"ng-binding"></pre><=
+div class=3D"copy-code" ng-mousemove=3D"zclip('rgba-code')">Copy</div></div=
+></div><div id=3D"interaction-area-font-face" class=3D"interaction-area-spe=
+cific" style=3D"display: none;"><label><span>Font Family: </span><input tab=
+index=3D"50" name=3D"font-face-family" type=3D"text" size=3D"10" class=3D"f=
+ont-face font-face-family ng-pristine ng-valid" ng-model=3D"fontFaceFamily"=
+ ng-keyup=3D"doFontFace($event, 'family')"></label> <label><span>Font Name:=
+ </span><input tabindex=3D"51" name=3D"font-face-name" type=3D"text" size=
+=3D"10" class=3D"font-face font-face-name ng-pristine ng-valid" ng-model=3D=
+"fontFaceName" ng-keyup=3D"doFontFace($event, 'name')"></label><div id=3D"f=
+ont-face-code" class=3D"code-area"><pre ng-bind-html=3D"fontFaceCode" class=
+=3D"ng-binding"></pre><div class=3D"copy-code" ng-mousemove=3D"zclip('font-=
+face-code')">Copy</div></div></div><div id=3D"interaction-area-multiple-col=
+umns" class=3D"interaction-area-specific" style=3D"display: none;"><label><=
+span># of Columns: </span><input tabindex=3D"60" name=3D"multiple-columns-n=
+umber" type=3D"text" size=3D"10" class=3D"multiple-columns multiple-columns=
+-number ng-pristine ng-valid" ng-model=3D"multipleColumnsNumber" ng-keyup=
+=3D"doMultipleColumns($event, 'number')"></label> <label><span>Column Gap: =
+</span><input tabindex=3D"61" name=3D"multiple-columns-gap" type=3D"text" s=
+ize=3D"10" class=3D"multiple-columns multiple-columns-gap ng-pristine ng-va=
+lid" ng-model=3D"multipleColumnsGap" ng-keyup=3D"doMultipleColumns($event, =
+'gap')"><i>px</i></label><div class=3D"info-box"><p id=3D"multiple-columns-=
+box">Lorem Ipsum is simply dummy text of the printing and typesetting indus=
+try. Lorem Ipsum has been the industry's standard dummy text ever since the=
+ 1500s, when an unknown printer took a galley of type and scrambled it to m=
+ake a type specimen book. It has survived not only five centuries, but also=
+ the leap into electronic typesetting, remaining essentially unchanged. It =
+was popularised in the 1960s with the release of Letraset sheets containing=
+ Lorem Ipsum passages, and more recently with desktop publishing software l=
+ike Aldus PageMaker including versions of Lorem Ipsum.</p></div><div id=3D"=
+multiple-columns-code" class=3D"code-area"><pre ng-bind-html=3D"multipleCol=
+umnsCode" class=3D"ng-binding"></pre><div class=3D"copy-code" ng-mousemove=
+=3D"zclip('multiple-columns-code')">Copy</div></div></div><div id=3D"intera=
+ction-area-box-resize" class=3D"interaction-area-specific" style=3D"display=
+: none;"><label><span>Box Resize: </span><select tabindex=3D"70" id=3D"box-=
+resize-type" name=3D"box-resize-type" ng-model=3D"boxResizeType" ng-change=
+=3D"doBoxResize($event, 'type')" class=3D"ng-pristine ng-valid"><option val=
+ue=3D"? undefined:undefined ?"></option><option value=3D"none">None</option=
+><option value=3D"horizontal">Horizontal</option><option value=3D"vertical"=
+>Vertical</option><option value=3D"both">Both</option></select></label><div=
+ id=3D"box-resize-code" class=3D"code-area"><pre ng-bind-html=3D"boxResizeC=
+ode" class=3D"ng-binding"></pre><div class=3D"copy-code" ng-mousemove=3D"zc=
+lip('box-resize-code')">Copy</div></div></div><div id=3D"interaction-area-b=
+ox-sizing" class=3D"interaction-area-specific" style=3D"display: none;"><la=
+bel><span>Box Sizing: </span><select tabindex=3D"80" id=3D"box-sizing-type"=
+ name=3D"box-sizing-type" ng-model=3D"boxSizingType" ng-change=3D"doBoxSizi=
+ng($event, 'type')" class=3D"ng-pristine ng-valid"><option value=3D"? undef=
+ined:undefined ?"></option><option value=3D"border-box">Border Box</option>=
+<option value=3D"content-box">Content Box</option></select></label><div id=
+=3D"box-sizing-code" class=3D"code-area"><pre ng-bind-html=3D"boxSizingCode=
+" class=3D"ng-binding"></pre><div class=3D"copy-code" ng-mousemove=3D"zclip=
+('box-sizing-code')">Copy</div></div></div><div id=3D"interaction-area-outl=
+ine" class=3D"interaction-area-specific" style=3D"display: none;"><label><s=
+pan>Outline Thickness: </span><input tabindex=3D"90" name=3D"outline-thickn=
+ess" type=3D"text" size=3D"10" class=3D"outline outline-thickness ng-pristi=
+ne ng-valid" ng-model=3D"outlineThickness" ng-keyup=3D"doOutline($event, 't=
+hickness')"><i>px</i></label> <label><span>Outline: </span><select tabindex=
+=3D"26" id=3D"outline-style" name=3D"outline-style" ng-model=3D"outlineStyl=
+e" ng-change=3D"doOutline($event, 'type')" class=3D"ng-pristine ng-valid"><=
+option value=3D"? undefined:undefined ?"></option><option value=3D"dotted">=
+Dotted</option><option value=3D"dashed">Dashed</option><option value=3D"sol=
+id">Solid</option><option value=3D"groove">Groove</option><option value=3D"=
+ridge">Ridge</option><option value=3D"inset">Inset</option><option value=3D=
+"outset">Outset</option><option value=3D"double">Double</option><option val=
+ue=3D"auto">Auto</option></select></label> <label><span>Outline Color: </sp=
+an><input tabindex=3D"91" name=3D"outline-color" type=3D"text" size=3D"10" =
+class=3D"outline outline-color color {pickerFaceColor:'#444',pickerBorder:0=
+,pickerInsetColor:'transparent',adjust:false} ng-pristine ng-valid" ng-mode=
+l=3D"outlineColor" ng-change=3D"doOutline($event, 'number')" autocomplete=
+=3D"off"></label> <label><span>Outline Offset: </span><input tabindex=3D"92=
+" name=3D"outline-offset" type=3D"text" size=3D"10" class=3D"outline outlin=
+e-offset ng-pristine ng-valid" ng-model=3D"outlineOffset" ng-change=3D"doOu=
+tline($event, 'offset')"></label><div id=3D"outline-code" class=3D"code-are=
+a"><pre ng-bind-html=3D"outlineCode" class=3D"ng-binding"></pre><div class=
+=3D"copy-code" ng-mousemove=3D"zclip('outline-code')">Copy</div></div></div=
+><div id=3D"interaction-area-transition" class=3D"interaction-area-specific=
+" style=3D"display: block;"><label><span>Property: </span><select tabindex=
+=3D"100" id=3D"transition-property" name=3D"transition-property" ng-model=
+=3D"transitionProperty" ng-change=3D"doTransition($event, 'property')" clas=
+s=3D"ng-valid ng-dirty"><option value=3D"all">All</option><option value=3D"=
+background">Background</option><option value=3D"color">Color</option><optio=
+n value=3D"height">Height</option><option value=3D"width">Width</option><op=
+tion value=3D"outline">Outline</option></select></label> <label><span>Durat=
+ion: </span><input tabindex=3D"101" name=3D"transition-duration" type=3D"te=
+xt" size=3D"10" class=3D"transition transition-duration ng-valid ng-dirty" =
+ng-model=3D"transitionDuration" ng-keyup=3D"doTransition($event, 'duration'=
+)"> <select tabindex=3D"102" id=3D"transition-time" name=3D"transition-time=
+" ng-model=3D"transitionTime" ng-change=3D"doTransition($event, 'time')" cl=
+ass=3D"ng-valid ng-dirty"><option value=3D"ms">Milliseconds</option><option=
+ value=3D"s">Seconds</option></select></label> <label><span>Function: </spa=
+n><select tabindex=3D"103" id=3D"transition-function" name=3D"transition-fu=
+nction" ng-model=3D"transitionFunction" ng-change=3D"doTransition($event, '=
+function')" class=3D"ng-valid ng-dirty"><option value=3D"ease">Ease</option=
+><option value=3D"linear">Linear</option><option value=3D"ease-in">Ease-In<=
+/option><option value=3D"ease-out">Ease-Out</option><option value=3D"ease-i=
+n-out">Ease-In-Out</option></select></label><p id=3D"transition-example" cl=
+ass=3D"example-box" style=3D"display: block; transition: background 500ms e=
+ase 0s;">Hover over me</p><div id=3D"transition-code" class=3D"code-area" s=
+tyle=3D"display: block;"><pre ng-bind-html=3D"transitionCode" class=3D"ng-b=
+inding">-webkit-transition: background 500ms ease;<br>-moz-transition: back=
+ground 500ms ease;<br>-ms-transition: background 500ms ease;<br>-o-transiti=
+on: background 500ms ease;<br>transition: background 500ms ease;</pre><div =
+class=3D"copy-code" ng-mousemove=3D"zclip('transition-code')">Copy</div></d=
+iv></div><div id=3D"interaction-area-transform" class=3D"interaction-area-s=
+pecific" style=3D"display: none;"><label><span>Scale: </span><input tabinde=
+x=3D"110" name=3D"transform-scale" type=3D"text" size=3D"2" class=3D"transf=
+orm transform-scale ng-pristine ng-valid" ng-model=3D"transformScale" ng-ke=
+yup=3D"doTransform($event, 'scale')"></label> <label><span>Rotate: </span><=
+input tabindex=3D"111" name=3D"transform-rotate" type=3D"text" size=3D"2" c=
+lass=3D"transform transform-rotate ng-pristine ng-valid" ng-model=3D"transf=
+ormRotate" ng-keyup=3D"doTransform($event, 'rotate')"><i>deg</i></label> <l=
+abel><span>Translate: </span><input tabindex=3D"112" name=3D"transform-tran=
+slate-x" type=3D"text" size=3D"2" class=3D"transform transform-translate-x =
+ng-pristine ng-valid" ng-model=3D"transformTranslateX" ng-keyup=3D"doTransf=
+orm($event, 'translate-x')"><i style=3D"padding-right:10px">px</i> <input t=
+abindex=3D"113" name=3D"transform-translate-y" type=3D"text" size=3D"2" cla=
+ss=3D"transform transform-translate-y ng-pristine ng-valid" ng-model=3D"tra=
+nsformTranslateY" ng-keyup=3D"doTransform($event, 'translate-y')"><i>px</i>=
+</label> <label><span>Skew: </span><input tabindex=3D"114" name=3D"transfor=
+m-skew-x" type=3D"text" size=3D"2" class=3D"transform transform-skew-x ng-p=
+ristine ng-valid" ng-model=3D"transformSkewX" ng-keyup=3D"doTransform($even=
+t, 'skew-x')"><i>deg</i> <input tabindex=3D"115" name=3D"transform-skew-y" =
+type=3D"text" size=3D"2" class=3D"transform transform-skew-y ng-pristine ng=
+-valid" ng-model=3D"transformSkewY" ng-keyup=3D"doTransform($event, 'skew-y=
+')"><i>deg</i></label><p id=3D"transform-example" class=3D"example-box">Wat=
+ch me</p><div id=3D"transform-code" class=3D"code-area"><pre ng-bind-html=
+=3D"transformCode" class=3D"ng-binding"></pre><div class=3D"copy-code" ng-m=
+ousemove=3D"zclip('transform-code')"><span>Copy</span></div></div></div><di=
+v id=3D"interaction-area-flexbox" class=3D"interaction-area-specific" style=
+=3D"display: none;"><label><span>Flex Display: </span><select tabindex=3D"7=
+0" id=3D"flexbox-type" name=3D"flexbox-type" ng-model=3D"flexboxType" ng-ch=
+ange=3D"doFlexbox($event, 'type')" class=3D"ng-pristine ng-valid"><option v=
+alue=3D"">Flex</option><option value=3D"inline-flex">Inline Flex</option></=
+select></label> <label><span>Flex Direction: </span><select tabindex=3D"70"=
+ id=3D"flexbox-direction" name=3D"flexbox-direction" ng-model=3D"flexboxDir=
+ection" ng-change=3D"doFlexbox($event, 'direction')" class=3D"ng-pristine n=
+g-valid"><option value=3D"">Row</option><option value=3D"row-reverse">Row R=
+everse</option><option value=3D"column">Column</option><option value=3D"col=
+umn-reverse">Column Reverse</option></select></label> <label><span>Flex Wra=
+p: </span><select tabindex=3D"70" id=3D"flexbox-wrap" name=3D"flexbox-wrap"=
+ ng-model=3D"flexboxWrap" ng-change=3D"doFlexbox($event, 'wrap')" class=3D"=
+ng-pristine ng-valid"><option value=3D"">Wrap</option><option value=3D"nowr=
+ap">No Wrap</option><option value=3D"wrap-reverse">Wrap Reverse</option></s=
+elect></label> <label><span>Justify Content: </span><select tabindex=3D"70"=
+ id=3D"flexbox-justify" name=3D"flexbox-justify" ng-model=3D"flexboxJustify=
+" ng-change=3D"doFlexbox($event, 'justify')" class=3D"ng-pristine ng-valid"=
+><option value=3D"">Flex Start</option><option value=3D"flex-end">Flex End<=
+/option><option value=3D"center">Center</option><option value=3D"space-betw=
+een">Space Between</option><option value=3D"space-around">Space Around</opt=
+ion></select></label> <label><span>Align Items: </span><select tabindex=3D"=
+70" id=3D"flexbox-align" name=3D"flexbox-align" ng-model=3D"flexboxAlign" n=
+g-change=3D"doFlexbox($event, 'align')" class=3D"ng-pristine ng-valid"><opt=
+ion value=3D"">Flex Start</option><option value=3D"flex-end">Flex End</opti=
+on><option value=3D"center">Center</option><option value=3D"baseline">Basel=
+ine</option><option value=3D"stretch">Stretch</option></select></label> <la=
+bel><span>Align Content: </span><select tabindex=3D"70" id=3D"flexbox-align=
+-content" name=3D"flexbox-align-content" ng-model=3D"flexboxAlignContent" n=
+g-change=3D"doFlexbox($event, 'aligncontent')" class=3D"ng-pristine ng-vali=
+d"><option value=3D"">Flex Start</option><option value=3D"flex-end">Flex En=
+d</option><option value=3D"center">Center</option><option value=3D"space-be=
+tween">Space Between</option><option value=3D"space-around">Space Around</o=
+ption><option value=3D"stretch">Stretch</option></select> <em class=3D"flex=
+box-note">(Only takes affect when there are multiple lines)</em></label><di=
+v id=3D"flexbox-example" class=3D"flexcontainer"><div>1</div><div>2</div><d=
+iv>3</div><div>4</div><div>5</div></div><div id=3D"flexbox-code" class=3D"c=
+ode-area"><pre ng-bind-html=3D"flexboxCode" class=3D"ng-binding"></pre><div=
+ class=3D"copy-code" ng-mousemove=3D"zclip('flexbox-code')">Copy</div></div=
+><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div><div id=3D"interaction-area-g=
+radients" class=3D"interaction-area-specific" style=3D"display: none;"><p>Y=
+ou can find a nice <a href=3D"http://www.colorzilla.com/gradient-editor/">g=
+radient generator here</a>.</p></div></aside></div></div><footer><a href=3D=
+"http://www.randyjensen.com/">Randy Jensen</a> =E2=80=A2 <a href=3D"https:/=
+/css3generator.com/lorem-ipsum">Lorem Ipsum Generator</a> =E2=80=A2 <a href=
+=3D"https://css3generator.com/unshorten-urls">Unshorten URLs</a></footer><d=
+iv id=3D"copied" class=3D"hidden">Code Copied!</div><div id=3D"fake-load-sv=
+g"><img src=3D"https://css3generator.com/images/chrome.svg" height=3D"20" w=
+idth=3D"20"> <img src=3D"https://css3generator.com/images/firefox.svg" heig=
+ht=3D"20" width=3D"20"> <img src=3D"https://css3generator.com/images/safari=
+.svg" height=3D"20" width=3D"20"> <img src=3D"https://css3generator.com/ima=
+ges/ie.svg" height=3D"20" width=3D"20"> <img src=3D"https://css3generator.c=
+om/images/opera.svg" height=3D"20" width=3D"20"> <img src=3D"https://css3ge=
+nerator.com/images/android.svg" height=3D"20" width=3D"20"> <img src=3D"htt=
+ps://css3generator.com/images/iphone.svg" height=3D"20" width=3D"20"></div>=
+<div id=3D"bsa" class=3D"gotta-pay-the-bills"></div><textarea readonly=3D""=
+ style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; position=
+: absolute; left: -9999px; top: 0px;"></textarea><textarea readonly=3D"" st=
+yle=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; position: a=
+bsolute; left: -9999px; top: 0px;"></textarea><textarea readonly=3D"" style=
+=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; position: abso=
+lute; left: -9999px; top: 0px;"></textarea><textarea readonly=3D"" style=3D=
+"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; position: absolut=
+e; left: -9999px; top: 0px;"></textarea><textarea readonly=3D"" style=3D"fo=
+nt-size: 12pt; border: 0px; padding: 0px; margin: 0px; position: absolute; =
+left: -9999px; top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-=
+size: 12pt; border: 0px; padding: 0px; margin: 0px; position: absolute; lef=
+t: -9999px; top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-siz=
+e: 12pt; border: 0px; padding: 0px; margin: 0px; position: absolute; left: =
+-9999px; top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-size: =
+12pt; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -99=
+99px; top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-size: 12p=
+t; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -9999p=
+x; top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-size: 12pt; =
+border: 0px; padding: 0px; margin: 0px; position: absolute; left: -9999px; =
+top: 0px;"></textarea><textarea readonly=3D"" style=3D"font-size: 12pt; bor=
+der: 0px; padding: 0px; margin: 0px; position: absolute; left: -9999px; top=
+: 0px;"></textarea><textarea readonly=3D"" style=3D"font-size: 12pt; border=
+: 0px; padding: 0px; margin: 0px; position: absolute; left: -9999px; top: 0=
+px;"></textarea><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0=
+px; padding: 0px; margin: 0px; position: absolute; left: -9999px; top: 0px;=
+"></textarea><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0px;=
+ padding: 0px; margin: 0px; position: absolute; left: -9999px; top: 0px;"><=
+/textarea><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0px; pa=
+dding: 0px; margin: 0px; position: absolute; left: -9999px; top: 0px;"></te=
+xtarea><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0px; paddi=
+ng: 0px; margin: 0px; position: absolute; left: -9999px; top: 0px;"></texta=
+rea><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0px; padding:=
+ 0px; margin: 0px; position: absolute; left: -9999px; top: 0px;"></textarea=
+><textarea readonly=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0p=
+x; margin: 0px; position: absolute; left: -9999px; top: 0px;"></textarea><t=
+extarea readonly=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; =
+margin: 0px; position: absolute; left: -9999px; top: 0px;"></textarea><text=
+area readonly=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; mar=
+gin: 0px; position: absolute; left: -9999px; top: 0px;"></textarea><textare=
+a readonly=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin=
+: 0px; position: absolute; left: -9999px; top: 0px;"></textarea><textarea r=
+eadonly=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0=
+px; position: absolute; left: -9999px; top: 0px;"></textarea><textarea read=
+only=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px;=
+ position: absolute; left: -9999px; top: 0px;"></textarea><textarea readonl=
+y=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; po=
+sition: absolute; left: -9999px; top: 0px;"></textarea><textarea readonly=
+=3D"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; pos=
+ition: absolute; left: -9999px; top: 0px;"></textarea><textarea readonly=3D=
+"" style=3D"font-size: 12pt; border: 0px; padding: 0px; margin: 0px; positi=
+on: absolute; left: -9999px; top: 0px;"></textarea></body></html>
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c263c061-a37e-4312-b286-ff106538259c@mhtml.blink
+
+@charset "utf-8";
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cl=
+oak, .ng-hide { display: none !important; }
+
+ng\:form { display: block; }
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a6ed440c-0361-4707-a4c1-9764854ca1f6@mhtml.blink
+
+@charset "utf-8";
+
+.bsap { display: none; }
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/styles/style.min.css?v=0.4
+
+@charset "utf-8";
+
+.cf::after, .cf::before { content: " "; display: table; }
+
+.cf::after { clear: both; }
+
+body { background: rgb(233, 233, 233); }
+
+header { text-align: center; }
+
+h1 { font-family: "Poiret One", cursive, serif; font-size: 50px; color: rgb=
+(102, 102, 102); }
+
+h2 { float: left; font-family: "Poiret One", cursive, serif; font-size: 30p=
+x; margin: 0px; padding: 0px; display: inline; color: rgb(255, 255, 255); }
+
+h3 { font-family: "Poiret One", cursive, serif; }
+
+a { color: rgb(34, 34, 34); }
+
+.hide { display: none; }
+
+.customSelectInner span { float: left; }
+
+hr { border: none; margin: 10px 0px; padding: 0px; outline: 0px; color: rgb=
+(221, 221, 221); background-color: rgb(221, 221, 221); height: 1px; }
+
+.wrapper { width: 740px; margin: 0px auto; position: relative; }
+
+.choose-area { margin: 0px auto; max-width: 740px; position: relative; }
+
+.choose-area span { display: block; }
+
+.choose-property option { padding: 0px; margin: 0px; width: 100%; }
+
+.arrow { display: block; float: right; }
+
+.main-area { max-width: 740px; margin: 0px auto; position: relative; }
+
+.option-boxes { position: absolute; top: 180px; left: 0px; width: 740px; }
+
+.option-box { font-family: "Poiret One", cursive, serif; font-size: 20px; h=
+eight: 70px; width: 236px; background: rgb(68, 68, 68); float: left; text-a=
+lign: center; line-height: 68px; margin: 0px 10px 10px 0px; position: absol=
+ute; opacity: 1; z-index: 99; color: rgb(255, 255, 255); cursor: pointer; t=
+ransition: all 150ms ease-in-out 0s; }
+
+.option-box:nth-child(3n) { margin-right: 0px; width: 247px; }
+
+.option-box:hover { background: rgb(85, 85, 85); }
+
+.fly { z-index: -1; }
+
+.fly .option-box { opacity: 0; }
+
+.fly .option-box:nth-child(1) { top: -95px; left: -250px; }
+
+.fly .option-box:nth-child(2) { top: -95px; left: 246px; }
+
+.fly .option-box:nth-child(3) { top: -95px; left: 760px; }
+
+.fly .option-box:nth-child(4) { top: 0px; left: -250px; }
+
+.fly .option-box:nth-child(5) { top: 0px; left: 246px; }
+
+.fly .option-box:nth-child(6) { top: 0px; left: 760px; }
+
+.fly .option-box:nth-child(7) { top: 180px; left: -250px; }
+
+.fly .option-box:nth-child(8) { top: 180px; left: 246px; }
+
+.fly .option-box:nth-child(9) { top: 180px; left: 760px; }
+
+.fly .option-box:nth-child(10) { top: 275px; left: -250px; }
+
+.fly .option-box:nth-child(11) { top: 275px; left: 246px; }
+
+.fly .option-box:nth-child(12) { top: 275px; left: 760px; }
+
+.fly .option-box:nth-child(13) { top: 370px; left: -250px; }
+
+.option-box:nth-child(1) { top: 0px; left: 0px; }
+
+.option-box:nth-child(2) { top: 0px; left: 246px; }
+
+.option-box:nth-child(3) { top: 0px; left: 493px; }
+
+.option-box:nth-child(4) { top: 80px; left: 0px; }
+
+.option-box:nth-child(5) { top: 80px; left: 246px; }
+
+.option-box:nth-child(6) { top: 80px; left: 493px; }
+
+.option-box:nth-child(7) { top: 160px; left: 0px; }
+
+.option-box:nth-child(8) { top: 160px; left: 246px; }
+
+.option-box:nth-child(9) { top: 160px; left: 493px; }
+
+.option-box:nth-child(10) { top: 240px; left: 0px; }
+
+.option-box:nth-child(11) { top: 240px; left: 246px; }
+
+.option-box:nth-child(12) { top: 240px; left: 493px; }
+
+.option-box:nth-child(13) { top: 320px; left: 0px; }
+
+aside { color: rgb(102, 102, 102); min-height: 100px; max-width: 720px; bac=
+kground: rgb(255, 255, 255); border-width: 1px 1px 3px; border-style: solid=
+; border-color: rgb(221, 221, 221); border-image: initial; margin: 0px auto=
+ 20px; opacity: 1; padding: 20px; transition: all 0.3s ease-in-out 0s; }
+
+aside.empty { opacity: 0; margin-top: 100px; transform: rotate(5deg); }
+
+.interaction-area input { font-size: 16px; padding: 5px; border-radius: 3px=
+; border: 1px solid rgb(204, 204, 204); outline: 0px; }
+
+label { display: block; font-size: 14px; }
+
+label span { font-family: Helvetica, "Helvetica Neue", Arial, sans-serif; d=
+isplay: block; float: left; width: 100px; padding-top: 9px; }
+
+#interaction-area-box-shadow label span { width: 130px; }
+
+#interaction-area-text-shadow label span { width: 130px; }
+
+#interaction-area-outline label span { width: 125px; }
+
+label i { font-family: Helvetica, "Helvetica Neue", Arial, sans-serif; font=
+-weight: lighter; font-style: normal; color: rgb(204, 204, 204); }
+
+.code-area { background: rgb(238, 238, 238); padding: 10px; margin: 10px 0p=
+x 0px; border: 1px solid rgb(221, 221, 221); display: none; position: relat=
+ive; transition: background-color 150ms ease-in-out 0s; }
+
+#copied { font-size: 20px; height: 68px; width: 740px; background: rgb(51, =
+51, 51); color: rgb(255, 255, 255); line-height: 68px; position: absolute; =
+text-align: center; top: 125px; left: 50%; margin-left: -370px; font-family=
+: "Poiret One", cursive, serif; transition: all 150ms ease-in-out 0s; }
+
+#copied.hidden { top: -68px; }
+
+.interaction-area-specific { display: none; }
+
+.interaction-area-specific select { border: 1px solid rgb(204, 204, 204); m=
+argin: 5px 0px 2px 2px; font-size: 16px; }
+
+footer { text-align: center; padding: 20px; color: rgb(204, 204, 204); }
+
+footer a { font-family: "Poiret One", cursive, serif; font-size: 12px; colo=
+r: rgb(153, 153, 153); text-decoration: none; border-bottom: 1px solid rgb(=
+233, 233, 233); transition: all 150ms ease-in-out 0s; }
+
+footer a:hover { color: rgb(102, 102, 102); border-bottom: 1px solid rgb(10=
+2, 102, 102); }
+
+.example-box { height: 50px; width: 100px; background: rgb(238, 238, 238); =
+margin: 0px; padding: 5px; position: absolute; top: 10px; right: 20px; line=
+-height: 50px; text-align: center; border: 1px solid rgb(153, 153, 153); z-=
+index: 9999; display: none; }
+
+#transition-example:hover { height: 90px; width: 200px; background: rgb(51,=
+ 51, 51); line-height: 90px; border: 5px dashed rgb(221, 221, 221); border-=
+radius: 5px; color: rgb(255, 255, 255); }
+
+#transform-example { transition: all 0.3s ease-in-out 0s; }
+
+.title { float: left; }
+
+.browsers { padding-left: 10px; font-size: 12px; margin-top: 4px; }
+
+#fake-load-svg { position: absolute; top: -999em; left: 0px; }
+
+pre { margin: 0px; padding: 0px; }
+
+.copy-code { font-family: Helvetica, Arial, sans-serif; font-size: 12px; po=
+sition: absolute; top: 0px; right: 0px; width: 50px; height: 100%; text-ali=
+gn: center; background: rgb(221, 221, 221); cursor: pointer; }
+
+.copy-code::before { content: ""; display: inline-block; height: 100%; vert=
+ical-align: middle; }
+
+.copy-code span { display: inline-block; vertical-align: middle; }
+
+.zeroclipboard-is-hover { background: rgb(204, 204, 204); cursor: pointer; =
+}
+
+.choose-area span.block-icon { position: absolute; top: 18px; right: 20px; =
+height: 36px; width: 32px; }
+
+.choose-area span.block-icon span { background: rgba(255, 255, 255, 0.3); h=
+eight: 10px; width: 15px; float: left; margin-left: 1px; margin-bottom: 1px=
+; display: block; transition: all 150ms ease-in-out 0s; }
+
+.choose-area .customSelect:hover span.block-icon span { background: rgb(255=
+, 255, 255); }
+
+.flexbox-note { margin-left: 5px; }
+
+#flexbox-example { position: relative; min-height: 200px; display: flex; fl=
+ex-direction: row; background: rgb(238, 238, 238); border: 1px solid rgb(15=
+3, 153, 153); padding: 15px; margin-top: 10px; }
+
+#flexbox-example div { height: 50px; width: 50px; background: rgb(22, 25, 5=
+9); margin: 5px; text-align: center; line-height: 30px; color: rgb(255, 255=
+, 255); }
+
+#flexbox-example div:nth-child(2) { background: rgb(53, 71, 140); height: 6=
+0px; width: 60px; }
+
+#flexbox-example div:nth-child(3) { background: rgb(78, 122, 199); height: =
+70px; width: 70px; }
+
+#flexbox-example div:nth-child(4) { background: rgb(127, 178, 240); height:=
+ 80px; width: 80px; }
+
+#flexbox-example div:nth-child(5) { background: rgb(173, 213, 247); height:=
+ 90px; width: 90px; }
+
+.choose-property { margin: 0px 0px 20px; cursor: pointer; font-family: "Poi=
+ret One", cursive, serif; outline: 0px; border: none; width: 720px; padding=
+: 20px 0px 20px 20px; background: rgb(50, 153, 187); color: rgb(255, 255, 2=
+55); font-size: 24px; box-shadow: rgba(0, 0, 0, 0.1) 0px -1px 10px 0px inse=
+t; transition: background 150ms ease-in-out 0s; }
+
+.customSelect:hover { background: rgb(41, 140, 173); }
+
+#bsap_1265000 { display: none; }
+
+body .one .bsa_it_ad { background: 0px 0px; border: none; font-family: "Poi=
+ret One", cursive, serif; padding: 0px; margin: 0px; text-align: left; }
+
+body .one .bsa_it_ad .bsa_it_i { display: block; padding: 0px; float: left;=
+ margin: 0px 0px 5px; }
+
+body .one .bsa_it_ad .bsa_it_i img { padding: 0px; margin: 0px 10px 0px 0px=
+; border: none; }
+
+body .one .bsa_it_ad .bsa_it_t { padding: 6px 0px 0px; }
+
+body .one .bsa_it_p { display: none; }
+
+body #bsap_aplink, body #bsap_aplink:hover { display: block; font-size: 10p=
+x; margin: 0px 15px; text-align: right; float: right; color: rgb(68, 68, 68=
+); text-decoration: none; }
+
+body #bsap_aplink:hover { text-decoration: underline; }
+
+.bsa, .gotta-pay-the-bills { width: 290px; height: 120px; background: rgb(2=
+55, 255, 255); float: right; padding: 10px; margin: -2px 10px 0px 0px; bord=
+er: 1px solid rgb(221, 221, 221); position: absolute; bottom: 0px; right: 0=
+px; }
+
+.bsa_it_i { float: left; display: block; }
+
+body .one .bsa_it_ad { background: 0px 0px; border: none; margin: 0px; }
+
+.one .bsa_it_ad { display: block; padding: 0px; margin: 0px; border: 1px so=
+lid rgb(225, 225, 225); background: rgb(249, 249, 249); line-height: 100%; =
+position: relative; }
+
+.bsa_it_p { display: none; }
+
+@media (max-width: 1435px) {
+  .gotta-pay-the-bills { z-index: 999; position: fixed; bottom: 0px; right:=
+ 0px; }
+}
+
+@media (max-width: 920px) {
+  .gotta-pay-the-bills { display: none; }
+}
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://fonts.googleapis.com/css?family=Poiret+One
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/chrome.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"70px" height=3D"70px" viewBox=3D"0 0 70 70" =
+overflow=3D"visible" enable-background=3D"new 0 0 70 70"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Chrome_1_" fill=3D"#FFFFFF" d=3D"M17.7,30.5l-10-17.4C14,5.2,23.=
+9,0,35,0C47.8,0,59,6.9,65.1,17.2H36.5c-0.5,0-1-0.1-1.6-0.1
+	C26.7,17.1,19.7,22.8,17.7,30.5 M47.5,22.2h20.1c1.6,4,2.4,8.3,2.4,12.8c0,19=
+.2-15.5,34.8-34.6,35l14.3-24.8c2-2.9,3.2-6.4,3.2-10.2
+	C52.9,30,50.8,25.5,47.5,22.2 M22.3,35c0-7,5.7-12.7,12.7-12.7c7,0,12.8,5.7,=
+12.8,12.7c0,7-5.7,12.7-12.8,12.7
+	C28,47.7,22.3,42,22.3,35 M39.8,52.3l-10,17.4C12.9,67.1,0,52.6,0,35c0-6.3,1=
+.6-12.1,4.5-17.2l14.3,24.8c2.9,6.1,9,10.3,16.2,10.3
+	C36.6,52.9,38.2,52.7,39.8,52.3"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/firefox.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"70px" height=3D"63px" viewBox=3D"0 0 70 63" =
+overflow=3D"visible" enable-background=3D"new 0 0 70 63"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Firefox_1_" fill=3D"#FFFFFF" d=3D"M69.9,18.9l-0.8,5.2c0,0-1.1-9=
+.6-2.6-13.2c-2.2-5.5-3.1-5.5-3.2-5.5
+	c1.5,3.7,1.2,5.7,1.2,5.7s-2.6-7-9.4-9.3C47.6-0.6,43.5,0,43,0.2h-0.2c0.1,0,=
+0.1,0,0.2,0h0c0,0,8.4,1.5,9.8,3.5c0,0-3.5,0-7.1,1
+	c-0.2,0,12.9,1.6,15.6,14.8c0,0-1.5-3-3.2-3.5c1.2,3.6,0.9,10.3-0.2,13.7c-0.=
+2,0.4-0.3-1.9-2.5-2.8c0.7,5-0.1,13-3.6,15.2
+	c-0.3,0.2,2.2-7.9,0.5-4.8c-9.7,14.9-21.3,6.9-26.4,3.3c2.6,0.6,7.7-0.1,9.9-=
+1.7l0,0c2.4-1.7,3.9-2.9,5.1-2.6c1.3,0.3,2.1-1,1.2-2.1
+	c-1-1.2-3.4-2.8-6.7-1.9c-2.3,0.6-5.2,3.2-9.6,0.6c-3.4-2-3.7-3.7-3.7-4.8c0.=
+1-0.4,0.2-0.8,0.3-1.1c0.4-1.1,1.6-1.4,2.2-1.6
+	c1.1,0.2,2.1,0.5,3.1,1c0-0.3,0-0.8,0-1.3c0.1-0.2,0.1-0.8-0.1-1.5c-0.1-0.7-=
+0.3-1.4-0.5-2.1c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0
+	c0-0.3,0.8-0.9,1.7-1.6c0.9-0.6,1.8-1.2,2.6-1.7c0.7-0.4,1.2-0.8,1.3-0.8c0,0=
+,0.1-0.1,0.2-0.1c0,0,0,0,0,0c0,0,0,0,0,0
+	c0.4-0.3,0.9-0.8,1-2c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1v-0.1c0,0,0-0.1,0-0.1v=
+0c0-0.1,0-0.2,0-0.4c0-0.1,0-0.1,0-0.2v0v0c0,0,0,0,0,0
+	c0,0,0,0,0,0h0c-0.1-0.3-0.6-0.4-2.4-0.4h0c-0.8,0-1.8,0-3.1,0c-2.3,0-3.5-2.=
+2-3.9-3.1c0.5-3,2.1-5.2,4.7-6.7c0.1,0,0.1,0,0-0.1
+	c0.5-0.3-6.2,0-9.2,3.9C17.4,6.9,15,7,13,7.5c-0.4,0-0.9,0-1.5-0.2c-1.4-1.2-=
+3.3-3.5-3.4-6.2c0,0,0,0,0,0V1c0,0-4.1,3.2-3.5,11.9
+	v0.4c-1.1,1.5-1.7,2.8-1.7,3.1c-1,2-2,5.1-2.8,9.7c0,0,0.6-1.8,1.7-3.9c-0.8,=
+2.6-1.5,6.6-1.1,12.7c0,0,0.1-1.3,0.5-3.3
+	c0.3,3.8,1.5,8.4,4.7,13.9C11.8,56,21.2,61.3,31.5,62.1c1.9,0.1,3.7,0.1,5.6,=
+0c0.1,0,0.3,0,0.5,0c2.1-0.2,4.2-0.5,6.4-1
+	C73.1,54,69.9,18.9,69.9,18.9"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/safari.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"66px" height=3D"70px" viewBox=3D"0 0 66 70" =
+overflow=3D"visible" enable-background=3D"new 0 0 66 70"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Safari_1_" fill=3D"#FFFFFF" d=3D"M32.8,4.4c-1.6,0-3.2,0.1-4.8,0=
+.4c0,0,0-0.1-0.1-0.2C28.8,3.9,29.2,3,29,2
+	c-0.2-1.2-1.5-2-3.1-2c-0.4,0-0.7,0-1.1,0.1c-2.1,0.4-3.4,1.9-3.1,3.4c0.2,0.=
+9,1,1.6,2.1,1.9c0,0.1,0,0.1,0,0.2
+	C10,9.6,0,22.2,0,37.2C0,55.3,14.7,70,32.8,70c18.1,0,32.8-14.7,32.8-32.8C65=
+.6,19.1,50.9,4.4,32.8,4.4 M22.7,3.4
+	c-0.2-0.9,0.9-1.9,2.3-2.2c0.3-0.1,0.6-0.1,0.8-0.1c1.1,0,1.9,0.5,2.1,1.2c0.=
+1,0.5-0.2,1.1-0.8,1.5c-0.5-0.3-1.1-0.5-1.7-0.4
+	c-0.6,0.1-1.1,0.5-1.4,1C23.4,4.2,22.8,3.8,22.7,3.4 M50.4,54.8c-3,3-6.6,5.1=
+-10.6,6.3l-2.9-4.7l-0.7,5.5c-1.1,0.1-2.2,0.2-3.4,0.2
+	c-6.6,0-12.9-2.6-17.6-7.3c-3-3-5.1-6.6-6.3-10.6l4.7-2.9l-5.5-0.7c-0.1-1.1-=
+0.2-2.2-0.2-3.3c0-6.6,2.6-12.9,7.3-17.6
+	c3-3,6.7-5.1,10.6-6.3l2.9,4.7l0.7-5.5c1.1-0.2,2.2-0.2,3.3-0.2c6.6,0,12.9,2=
+.6,17.6,7.3c3,3,5.2,6.7,6.3,10.6L52,33.1l5.5,0.7
+	c0.2,1.1,0.3,2.2,0.3,3.3C57.7,43.8,55.1,50.1,50.4,54.8 M49.8,20.2L36.4,30.=
+4c-1-0.5-2.1-0.8-3.3-0.9l-3.5-7.3l-0.2,8.1
+	c-0.9,0.4-1.7,1.1-2.4,1.9l-4.3-1.5l3.2,3.3c-0.4,0.9-0.7,1.9-0.7,2.9l-7.3,3=
+.5l8.1,0.2c0,0.1,0.1,0.1,0.1,0.2L15.8,54.2L29.3,44
+	c1,0.5,2.1,0.8,3.2,0.9l3.5,7.3l0.2-8.1c0.9-0.4,1.7-1.1,2.4-1.8l4.3,1.5l-3.=
+1-3.3c0.4-0.9,0.7-1.9,0.7-2.9l7.3-3.5l-8.1-0.2
+	c0,0-0.1-0.1-0.1-0.1L49.8,20.2z M32.8,30.4v0.2V30.4z M31.4,30.8c0.5-0.1,0.=
+9-0.1,1.4-0.1c0.3,0,0.6,0,0.9,0.1h0h0
+	c0.6,0.1,1.2,0.2,1.7,0.5l-4.9,3.7l-3.7,4.9c-0.2-0.4-0.3-0.8-0.4-1.2C25.6,3=
+5,27.9,31.5,31.4,30.8 M36.2,42.8L36.2,42.8
+	c-0.6,0.4-1.3,0.7-2.1,0.8c-0.5,0.1-0.9,0.1-1.4,0.1c-0.3,0-0.5,0-0.8,0h0c-0=
+.6-0.1-1.2-0.2-1.7-0.5l4.9-3.7l3.7-4.9
+	c0.1,0.4,0.3,0.8,0.4,1.2C39.8,38.6,38.5,41.4,36.2,42.8"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/ie.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"70px" height=3D"68px" viewBox=3D"0 0 70 68" =
+overflow=3D"visible" enable-background=3D"new 0 0 70 68"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"IE_1_" fill=3D"#FFFFFF" d=3D"M52.8,39.3h17c0.1-1.2,0.2-2.4,0.2-=
+3.6c0-5.7-1.5-11.2-4.2-15.8c2.8-7.4,2.7-13.8-1.1-17.5
+	c-3.6-3.6-13.1-3-23.9,1.8C40,4,39.2,4,38.4,4C23.6,4,11.1,14.2,7.7,27.9c4.7=
+-5.9,9.6-10.3,16.1-13.4c-0.6,0.6-4,4-4.7,4.6
+	C1.9,36.3-3.6,58.9,2.3,64.7c4.5,4.5,12.5,3.7,21.8-0.9c4.3,2.2,9.2,3.4,14.3=
+,3.4c13.9,0,25.7-8.9,29.9-21.4H51.2
+	c-2.3,4.3-6.9,7.3-12.2,7.3c-5.3,0-9.9-3-12.3-7.3c-1.1-2-1.7-4.2-1.7-6.6v0H=
+52.8z M25.1,30.9c0.4-7,6.2-12.6,13.3-12.6
+	c7.1,0,12.9,5.6,13.3,12.6H25.1z M64.5,5.8c2.4,2.5,2.4,6.9,0.3,12.5c-3.5-5.=
+4-8.7-9.6-14.8-12.1C56.6,3.5,61.9,3.1,64.5,5.8
+	 M6.7,63.6c-3.1-3.1-2.1-9.6,1.8-17.3C11,53.2,15.8,59,22,62.8C15.2,65.9,9.5=
+,66.4,6.7,63.6"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/opera.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"66px" height=3D"70px" viewBox=3D"0 0 66 70" =
+overflow=3D"visible" enable-background=3D"new 0 0 66 70"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Opera_1_" fill-rule=3D"evenodd" clip-rule=3D"evenodd" fill=3D"#=
+FFFFFF" d=3D"M32.4,63.4c11.6,0,12.8-17,12.8-29.4
+	c0-14.4-2.2-28.3-12.8-28.3c-10.6,0-12.6,15-12.6,28.4C19.9,46.5,21,63.4,32.=
+4,63.4z M32.4,0c18.9,0,32.7,13.7,32.7,34.7
+	c0,18.5-13,35.3-32.7,35.3C12.9,70,0,53.2,0,34.7C0,13.9,13.3,0,32.4,0z"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/android.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"62px" height=3D"71px" viewBox=3D"0 0 62 71" =
+overflow=3D"visible" enable-background=3D"new 0 0 62 71"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Android_1_" fill=3D"#FFFFFF" d=3D"M56.9,21.9c-2.4,0-4.4,2-4.4,4=
+.4v17.5c0,2.4,2,4.4,4.4,4.4s4.3-2,4.3-4.4V26.3
+	C61.2,23.8,59.3,21.9,56.9,21.9 M4.3,21.9c-2.4,0-4.3,2-4.3,4.4v17.5c0,2.4,1=
+.9,4.4,4.3,4.4c2.4,0,4.4-2,4.4-4.4V26.3
+	C8.7,23.8,6.8,21.9,4.3,21.9 M10.9,50.3c0,3.6,2.9,6.6,6.5,6.6h2.2v8.8c0,2.4=
+,2,4.4,4.3,4.4c2.4,0,4.4-2,4.4-4.4v-8.8h4.4v8.8
+	c0,2.4,2,4.4,4.4,4.4c2.4,0,4.4-2,4.4-4.4v-8.8h2.2c3.6,0,6.6-2.9,6.6-6.6V26=
+.3H10.9V50.3z M38.7,6.1l2.8-5.3c0.1-0.3,0-0.6-0.2-0.8
+	c-0.3-0.1-0.6,0-0.7,0.2l-2.8,5.4c-2.2-0.9-4.6-1.3-7.1-1.3c-2.5,0-4.9,0.5-7=
+.1,1.3l-2.8-5.4c-0.1-0.3-0.5-0.4-0.7-0.2
+	c-0.2,0.1-0.3,0.5-0.2,0.8l2.8,5.3C16.3,8.9,11.8,14.8,11,21.9h39.2C49.4,14.=
+8,44.9,8.9,38.7,6.1 M21.9,18.5c-1.7,0-3.2-1.4-3.2-3.2
+	c0-1.8,1.4-3.2,3.2-3.2c1.7,0,3.2,1.4,3.2,3.2C25,17.1,23.6,18.5,21.9,18.5 M=
+39.4,18.5c-1.7,0-3.2-1.4-3.2-3.2
+	c0-1.8,1.5-3.2,3.2-3.2c1.7,0,3.2,1.4,3.2,3.2C42.5,17.1,41.1,18.5,39.4,18.5=
+"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://css3generator.com/images/iphone.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version=3D"1.1"
+	 xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" xmlns:a=3D"http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x=3D"0px" y=3D"0px" width=3D"57px" height=3D"71px" viewBox=3D"0 0 57 71" =
+overflow=3D"visible" enable-background=3D"new 0 0 57 71"
+	 xml:space=3D"preserve">
+<defs>
+</defs>
+<path id=3D"Apple_2_" fill=3D"#FFFFFF" d=3D"M32,5.3c2.5-3,6.8-5.2,10.3-5.3c=
+0.4,4.1-1.2,8.2-3.6,11.2c-2.4,3-6.4,5.3-10.3,5
+	C27.8,12.1,29.7,7.9,32,5.3z M51.9,61.3c-2.9,4.3-5.9,8.5-10.7,8.6c-4.7,0.1-=
+6.2-2.8-11.5-2.8c-5.3,0-7,2.7-11.4,2.9
+	c-4.6,0.2-8.1-4.6-11-8.9c-6-8.7-10.6-24.6-4.4-35.3c3-5.3,8.5-8.7,14.4-8.8c=
+4.5-0.1,8.8,3,11.5,3c2.8,0,7.9-3.8,13.3-3.2
+	c2.3,0.1,8.7,0.9,12.7,6.9c-0.3,0.2-7.6,4.5-7.5,13.3c0.1,10.6,9.2,14.1,9.4,=
+14.2C56.7,51.6,55.3,56.4,51.9,61.3z"/>
+</svg>
+
+------MultipartBoundary--SBc8kIpT8fSjrAa2qQLF90XPPkohhjIc9kLAcJpUgR------
